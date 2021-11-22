@@ -17,7 +17,7 @@ re="\033[1;31m"
 gr="\033[1;32m"
 cy="\033[1;36m"
 yo="\033[1;33m"
-SLEEP_TIME = 30
+SLEEP_TIME = 3
 
 class main():
 
